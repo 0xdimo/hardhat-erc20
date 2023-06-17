@@ -1,0 +1,8 @@
+{
+  "name": "hardhat-erc20",
+  "version": "1.0.0",
+  "description": "ERC20 introduction",
+  "dependencies": {
+    "hardhat": "^2.15.0"
+  }
+}

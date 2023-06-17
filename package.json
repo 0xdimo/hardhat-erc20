@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ERC20 introduction",
   "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2",
     "hardhat": "^2.15.0"
   }
 }
